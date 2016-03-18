@@ -1,3 +1,4 @@
+--Testing
 SELECT name AS object_name 
   ,SCHEMA_NAME(schema_id) AS schema_name
   ,type_desc
