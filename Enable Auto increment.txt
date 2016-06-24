@@ -1,3 +1,0 @@
-use cex_pt;
-
-ALTER TABLE bacsdetailhistory MODIFY COLUMN BACSDetailHistoryID INT(10) UNSIGNED AUTO_INCREMENT;
